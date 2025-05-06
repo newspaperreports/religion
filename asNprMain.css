@@ -842,7 +842,6 @@ a {
         width: 100%;
     }
 }
-
 /* End AS - Media Main Section Design */
 
 /* Start For You News Area Design */
@@ -889,7 +888,7 @@ a {
     max-width: none;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1020px) {
     .forYou_items_ct {
         flex-wrap: wrap;
     }
