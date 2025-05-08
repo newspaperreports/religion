@@ -82,7 +82,6 @@ Contact:     asupdatemedia518@gmail.com
     display: block;
 }
 
-
 /* Start Global Right Layout Media Section Design */
 .layout_media_area {
     contain: layout;
@@ -132,7 +131,6 @@ Contact:     asupdatemedia518@gmail.com
     border-bottom: 1px solid var(--global-border-any-side-color);
     margin: 10px 0 0;
     padding-bottom: 10px;
-    letter-spacing: 0.5px;
 }
 
 .topHeadLine_info a:hover {
